@@ -137,9 +137,7 @@ StockAssistPlatform/
 ## 시스템 아키텍처
 
 ### AI 시스템 구조
-```
-
-```
+![image](https://github.com/user-attachments/assets/026a35c1-70cd-4fdb-b105-7a1b18a679e9)
 
 ### MSA 구조
 - **API Gateway**: Spring Cloud Gateway
